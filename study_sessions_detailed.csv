@@ -1,0 +1,36 @@
+user_id,date,session_start,session_end,session_duration,break_duration,distractions,productivity_score,task_completed,task_type,focus_level,mood_before,mood_after,environment,notes
+1,2025-03-15,11:45,12:24,39,10,1,2,4,Analysis,5,Neutral,Stressed,Cafe,Need improvement
+1,2025-03-16,17:30,17:57,27,24,0,2,5,Writing,10,Neutral,Tired,Library,Need improvement
+1,2025-03-17,13:45,14:13,28,30,2,1,4,Meeting,5,Stressed,Tired,Cafe,Review required
+1,2025-03-18,09:00,09:49,49,16,3,5,1,Coding,5,Stressed,Stressed,Office,Need improvement
+1,2025-03-19,10:30,11:03,33,26,4,1,2,Analysis,9,Tired,Stressed,Library,Review required
+1,2025-03-20,17:00,18:15,75,29,4,1,4,Writing,10,Happy,Neutral,Office,
+1,2025-03-21,09:30,10:23,53,14,4,1,3,Analysis,10,Happy,Tired,Home,Need improvement
+2,2025-03-15,14:00,14:59,59,26,5,5,1,Meeting,3,Tired,Tired,Home,Excellent session
+2,2025-03-16,11:00,12:17,77,17,1,5,4,Coding,4,Tired,Stressed,Office,
+2,2025-03-17,17:15,18:07,52,28,2,3,1,Analysis,7,Stressed,Neutral,Home,Review required
+2,2025-03-18,14:00,15:12,72,26,5,5,4,Analysis,3,Neutral,Happy,Cafe,Need improvement
+2,2025-03-19,14:15,15:45,90,14,0,4,2,Coding,2,Stressed,Stressed,Office,Excellent session
+2,2025-03-20,16:15,17:07,52,21,0,2,4,Meeting,4,Stressed,Tired,Office,Review required
+2,2025-03-21,16:00,17:15,75,23,3,5,2,Reading,3,Tired,Neutral,Office,Need improvement
+3,2025-03-15,13:30,14:22,52,21,1,1,5,Meeting,1,Neutral,Tired,Cafe,Review required
+3,2025-03-16,16:00,17:02,62,22,4,5,3,Reading,7,Neutral,Stressed,Cafe,Review required
+3,2025-03-17,13:30,14:25,55,6,2,2,5,Coding,6,Tired,Stressed,Home,
+3,2025-03-18,08:15,09:22,67,15,0,1,4,Writing,3,Tired,Stressed,Office,Excellent session
+3,2025-03-19,11:15,12:31,76,25,2,3,3,Reading,9,Neutral,Tired,Office,Need improvement
+3,2025-03-20,15:45,16:56,71,26,3,3,3,Analysis,2,Tired,Happy,Library,Need improvement
+3,2025-03-21,10:15,11:23,68,10,2,4,3,Coding,6,Happy,Stressed,Office,Excellent session
+4,2025-03-15,13:45,15:12,87,27,3,5,5,Meeting,1,Tired,Neutral,Office,
+4,2025-03-16,12:15,13:09,54,9,1,4,2,Reading,8,Happy,Neutral,Office,
+4,2025-03-17,16:45,18:14,89,7,4,2,1,Meeting,2,Happy,Neutral,Office,Review required
+4,2025-03-18,11:45,12:52,67,10,2,5,2,Analysis,1,Stressed,Happy,Library,Need improvement
+4,2025-03-19,12:45,13:25,40,16,4,5,3,Writing,7,Stressed,Tired,Cafe,Need improvement
+4,2025-03-20,13:15,14:29,74,27,3,3,5,Analysis,8,Tired,Happy,Cafe,Excellent session
+4,2025-03-21,09:30,10:52,82,30,2,4,4,Reading,1,Happy,Stressed,Cafe,Need improvement
+5,2025-03-15,10:15,11:22,67,30,4,3,3,Coding,4,Neutral,Stressed,Office,Need improvement
+5,2025-03-16,13:30,13:57,27,20,0,4,3,Reading,5,Neutral,Happy,Library,Excellent session
+5,2025-03-17,17:00,18:18,78,14,2,3,1,Writing,3,Tired,Stressed,Library,Excellent session
+5,2025-03-18,08:30,09:41,71,30,2,3,5,Meeting,3,Happy,Tired,Cafe,Review required
+5,2025-03-19,12:30,13:44,74,23,0,1,1,Coding,2,Tired,Stressed,Cafe,Excellent session
+5,2025-03-20,14:30,15:50,80,9,4,1,3,Meeting,2,Neutral,Tired,Office,
+5,2025-03-21,11:15,12:20,65,12,3,2,5,Writing,1,Stressed,Tired,Cafe,
