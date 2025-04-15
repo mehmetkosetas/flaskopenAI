@@ -3,3 +3,4 @@ pandas==2.2.1
 scikit-learn==1.4.2
 openai==1.14.3
 python-dotenv==1.0.1
+gunicorn==21.2.0
