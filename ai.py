@@ -6,8 +6,8 @@ from sklearn.cluster import KMeans
 
 app = Flask(__name__)
 
-# OpenAI API anahtarını environment variable üzerinden ayarla
-openai.api_key = os.getenv("OPENAI_API_KEY")
+
+openai.api_key = os.getenv("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")
 
 # 1️⃣ CSV Dosyasını Oku ve Veriyi İşle
 df = pd.read_csv("study_sessions_detailed.csv")
